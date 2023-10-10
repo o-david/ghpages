@@ -1,0 +1,17 @@
+h1{
+    font-size: 10rem;
+    color: chartreuse !important;
+}
+img{
+    border-radius: 10px;width: 100px; height:100px;
+}
+#pick{
+    color: blueviolet;
+
+}
+.pick{
+    color: blue;
+}
+#cool p{
+    font-size: larger;
+}
